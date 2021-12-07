@@ -1,6 +1,5 @@
 - 👋 Hi, I`m Renato Guedes
 - 👀 I’m interested in all kind of development, Web, Mobile, Data, ML etc...
-- 🌱 I’m currently learning NestJs, Prisma v2
 - 💞️ I’m looking to collaborate on new technology projects
 - 📫 How to reach me tinho1990@gmail.com
 
